@@ -7,11 +7,7 @@
     <title>dashboard</title>
 </head>
 <body>
-  <h1>
-<!--
-**httpMateus0/httpMateus0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+  <h1>some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -20,7 +16,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-  <h1>
--->
+- ⚡ Fun fact: ...<h1>
 
