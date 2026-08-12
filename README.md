@@ -9,6 +9,7 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 <break>----------</break>
-<p> <img src="https://pin.it/7guJt7btJ /> </p>
+<p> <img src="<img width="498" height="280" alt="image" src="https://github.com/user-attachments/assets/2c0baaa9-a4d7-4d26-960d-ea990a604824" />
+J /> </p>
 
 
