@@ -1,7 +1,6 @@
-## Hi there 👋
 # Hi there, I'm Mateus 👋
 
-**Full Stack Developer** | Python • HTML • CSS • JavaScript
+**Developer and Analistic of sistem** | Python • HTML • CSS • JavaScript
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
