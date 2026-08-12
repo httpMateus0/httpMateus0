@@ -9,6 +9,6 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 <break>----------</break>
-<p> <img src="https://share.google/Qrq56WDLYeQRtNid4 /> </p>
+<p> <img src="https://pin.it/7guJt7btJ /> </p>
 
 
