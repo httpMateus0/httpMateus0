@@ -8,8 +8,7 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
-<br>----------</br>
-
+<h2>---------------------------------------------------------------------------------------------------</h2>
 <p> <img src="https://media1.tenor.com/m/s2UYPSfCDmcAAAAd/alucard-hellsing.gif" /> </p>
 
 
