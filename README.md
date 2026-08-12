@@ -11,5 +11,5 @@
 <br>----------</br>
 
 <p> <img src="https://media1.tenor.com/m/s2UYPSfCDmcAAAAd/alucard-hellsing.gif" /> </p>
-<img src="https://tenor.com/WZSA.gif" />
+
 
