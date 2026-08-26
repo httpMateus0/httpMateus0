@@ -1,6 +1,6 @@
 # Whatsapp guys, Mateus around here!
 
-**Developer and Analistic of sistem** | Python • HTML • CSS • JavaScript
+**Developer and Analistic of sistem in development** | Python • HTML • CSS • JavaScript
 ## 🛠️ Tech Stack
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=black" />
@@ -14,6 +14,11 @@
 ### BACKEND
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
+
+### Frontend
+
+![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
 
 <p align="left">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=httpMateus0&show_icons=true&theme=tokyonight&count_private=true" />
