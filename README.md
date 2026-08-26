@@ -1,6 +1,6 @@
 # Whatsapp guys, Mateus around here!
 
-**Developer and Analistic of sistem in development** | Python • HTML • CSS • JavaScript
+**Developer and Analistic of sistem in development** | Python • HTML • CSS • JavaScript 🗃️
 <p align="center">
   <img src="https://media1.tenor.com/m/s2UYPSfCDmcAAAAd/alucard-hellsing.gif" />
 </p>
@@ -13,11 +13,11 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 
-### Backend
+### Backend 🔓
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
 
-### Frontend
+### Frontend 🔓
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
@@ -27,7 +27,7 @@
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=httpMateus0&layout=compact&theme=tokyonight" />
 </p>
 
-## GitHub Stats
+## GitHub Stats 📈
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=httpMateus0&theme=dracula&hide_border=true" />
   
