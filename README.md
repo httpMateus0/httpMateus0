@@ -1,4 +1,4 @@
-# Whatsapp guys, Mateus here👋
+# Whatsapp guys, Mateus around here!
 
 **Developer and Analistic of sistem** | Python • HTML • CSS • JavaScript
 ## 🛠️ Tech Stack
