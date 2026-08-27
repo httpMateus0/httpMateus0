@@ -5,7 +5,7 @@
   <img src="https://media1.tenor.com/m/s2UYPSfCDmcAAAAd/alucard-hellsing.gif" />
 </p>
 
-## 🛠️ Tech Stack
+## Tech Stack ⚙️
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=black" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=black" />
