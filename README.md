@@ -23,8 +23,28 @@
 
 ## 🛠️ Tech stack
 
+### 🎨 Frontend
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts" />
+</p>
+
+### ⚙️ Backend
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,nodejs,express" />
+</p>
+
+### 🗄️ Banco de Dados
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=sqlite,postgres" />
+</p>
+
+### 🔧 Ferramentas
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 ---
