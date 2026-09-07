@@ -52,9 +52,18 @@
 ## 📊 Github stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=httpMateus0&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=httpMateus0&layout=compact&theme=tokyonight&langs_count=8"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=httpMateus0&show_icons=true&theme=tokyonight"
+    height="180"
+  />
+
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=httpMateus0&layout=compact&theme=tokyonight&langs_count=8"
+    height="180"
+  />
 </p>
+
+
 
 ---
 
