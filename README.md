@@ -52,17 +52,9 @@
 ## 📊 Github stats
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=httpMateus0&show_icons=true&theme=tokyonight"
-    height="180"
-  />
-
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=httpMateus0&layout=compact&theme=tokyonight&langs_count=8"
-    height="180"
-  />
+  <img src="./profile/stats.svg" height="180">
+  <img src="./profile/top-langs.svg" height="180">
 </p>
-
 
 
 ---
