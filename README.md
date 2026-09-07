@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  💻 Estudante/desenvolvedor em formação | Tecnologia | Em constante lapso
+  💻 Desenvolvedor em formação | Tecnologia | Em constante lapso
 </p>
 
 ---
