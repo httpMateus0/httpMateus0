@@ -59,14 +59,6 @@
 
 ---
 
-## 📈 Linguagens mais utilizadas
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=httpMateus0&layout=donut&theme=tokyonight&langs_count=8" />
-</p>
-
----
-
 ## Projetos
 
 ### 🤖 Assistente / API
