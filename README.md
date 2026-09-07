@@ -10,17 +10,18 @@
 
 ---
 
-## 👨‍💻 Sobre mim
+## 👨‍💻 About me
 
 * 🎓 Estudante de ADS (Análise e desenvolvimento de sistemas) / T.I
-* 💻 Desenvolvendo projetos com programação e APIs
-* 🚀 Atualmente estudando desenvolvimento web e backend
-* 🧠 Buscando evoluir minhas habilidades e biblioteca mental
+* ⚙️ Desenvolvendo projetos com programação e APIs
+* ⚙️ Atualmente estudando desenvolvimento web e backend
+* ⚙️ Buscando evoluir minhas habilidades e biblioteca mental
 * ⚙️ Interessado em sistemas, hardware, linguagens e inteligência artificial
+* ⚙️ Trabalhando atualmente com suporte de T.I
 
 ---
 
-## 🛠️ Tecnologias e ferramentas
+## 🛠️ Tech stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,git,github,vscode" />
@@ -28,7 +29,7 @@
 
 ---
 
-## 📊 Minhas estatísticas
+## 📊 GIThub stats
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=httpMateus0&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -44,12 +45,6 @@
 </p>
 
 ---
-
-## 🚀 Projetos
-
-### 🌎 Destino Ideal
-
-Projeto web desenvolvido para ajudar usuários a encontrar um destino de viagem de acordo com suas preferências.
 
 ### 🤖 Assistente / API
 
