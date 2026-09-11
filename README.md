@@ -1,4 +1,4 @@
-<h1 align="center"> what´s up guys, Mateus around here!</h1>
+<h1 align="center"> What´s up guys, Mateus around here!</h1>
 
 <p align="center">
   <img src="https://media1.tenor.com/m/s2UYPSfCDmcAAAAd/alucard-hellsing.gif" />
