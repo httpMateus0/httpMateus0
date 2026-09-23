@@ -97,5 +97,6 @@ Inteligência Artificial
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=httpMateus0&color=blue&style=flat-square&label=VISITAS+NO+PERFIL" />
 </p>
+.
 
 
